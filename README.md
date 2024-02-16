@@ -1,10 +1,18 @@
 # Ti-BASIC Notes Generator
 
+![](https://github.com/Giantryan484/Notes-For-Ti-84/blob/main/demo.gif)
+
 ## Overview
 
 This Python script automates the generation of Ti-BASIC files for displaying notes on TI-84 calculators. It is designed to take multiple text files as input, each containing notes on different subjects, and generates a single Ti-BASIC program. This program allows users to view their notes directly on their TI-84 calculators through a simple menu-driven interface.
 
 The script processes each text file, formats the content into pages and lines according to the display constraints of the TI-84 calculator, and generates Ti-BASIC code that can be transferred to a TI-84 calculator for study and reference purposes.
+
+**NOTE:** Once installed, the controls for navigating the notes are as follows:
+   - `down`: next page,
+   - `up`: previous page
+   - `clear`: menu page
+   - to exit the program, select `Exit` on the menu.
 
 ## Prerequisites
 
@@ -40,6 +48,10 @@ python3 generateTICode.py NOTES.txt Math.txt Chemistry.txt Physics.txt
 ```
 
 This will create a `NOTES.txt` file containing the Ti-BASIC code. Compile and transfer `NOTES.8xp` to your calculator to access your notes.
+
+## WARNING
+
+The Ti-84 text display (and compiler) will only accept standard text characters. Thus, especially when importing equations, take extra care to replace any symbols (Δ, λ, α) with their plain-text counterparts (delta, lambda, a)
 
 ## Contributing
 
