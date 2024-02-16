@@ -33,7 +33,7 @@ The script processes each text file, formats the content into pages and lines ac
     - `output_file.txt` is the name of the Ti-BASIC program file that will be generated.
     - `input_file1.txt`, `input_file2.txt`, ... are the text files containing your notes.
 
-3. **Compile the Output file to `.8xp`**: This can be done in a wide variety of ways, but personally I use the [TokensIDE](https://www.ticalc.org/archives/files/fileinfo/433/43315.html) code editor.
+3. **Compile the Output file to `.8xp`**: This can be done in a wide variety of ways, but personally I use the [TokensIDE](https://www.ticalc.org/archives/files/fileinfo/433/43315.html) code editor. (In Tokens, open the file then press F5 and a .8xp file is made)
 
 4. **Transfer the Ti-BASIC (`.8xp`) Program to Your Calculator**: Again, there's dozens of ways to do this. Personally I use [TiLP](http://lpg.ticalc.org/prj_tilp/), but [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-sw) is a more user-friendly alternative.
 
