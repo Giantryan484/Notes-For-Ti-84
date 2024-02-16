@@ -36,10 +36,10 @@ The script processes each text file, formats the content into pages and lines ac
 If you have three sets of notes named `Math.txt`, `Chemistry.txt`, and `Physics.txt`, run the script like this:
 
 ```bash
-python3 generateTICode.py myNotes.txt Math.txt Chemistry.txt Physics.txt
+python3 generateTICode.py NOTES.txt Math.txt Chemistry.txt Physics.txt
 ```
 
-This will create a `myNotes.txt` file containing the Ti-BASIC code. Compile and transfer `myNotes.8xp` to your calculator to access your notes.
+This will create a `NOTES.txt` file containing the Ti-BASIC code. Compile and transfer `NOTES.8xp` to your calculator to access your notes.
 
 ## Contributing
 
