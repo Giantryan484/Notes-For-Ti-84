@@ -1,0 +1,19 @@
+Newton's First Law: An object at rest stays at rest, and an object in motion stays in motion with the same speed and direction unless acted upon by an unbalanced force.
+
+Newton's Second Law: F = ma, Force equals mass times acceleration.
+
+Newton's Third Law: For every action, there is an equal and opposite reaction.
+
+Law of Universal Gravitation: F = G(m1m2)/r^2, the gravitational force between two masses is proportional to the product of their masses and inversely proportional to the square of the distance between their centers.
+
+Conservation of Energy: The total energy in a closed system remains constant over time.
+
+Conservation of Momentum: The total momentum of a closed system is conserved unless acted on by external forces.
+
+Ohm's Law: V = IR, where V is voltage, I is current, and R is resistance.
+
+Wave Equation: v = f*lambda, where v is the wave velocity, f is the frequency, and lambda is the wavelength.
+
+Coulomb's Law: F = k(q1q2)/r^2, the electric force between two charged objects is proportional to the product of their charges and inversely proportional to the square of the distance between them.
+
+Thermal Expansion: Length change = coeff*Initial Length*Temp change, the change in length of an object is proportional to the original length, the change in temperature, and the coefficient of linear expansion.

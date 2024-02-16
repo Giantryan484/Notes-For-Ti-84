@@ -1,0 +1,17 @@
+Pythagorean Theorem: a squared plus b squared equals c squared, where c is the hypotenuse of a right triangle, and a and b are the other two sides.
+
+Quadratic Formula: x equals (-b plus or minus sqrt(b squared minus 4ac)) divided by (2a), used to find the roots of a quadratic equation ax squared plus bx plus c equals 0.
+
+Area of a Circle: A equals pi r squared, where r is the radius of the circle.
+
+Circumference of a Circle: C equals 2 pi r, where r is the radius of the circle.
+
+Logarithm Rules: log base b of xy equals log base b of x plus log base b of y, log base b of x divided by y equals log base b of x minus log base b of y, log base b of x raised to y equals y times log base b of x.
+
+Sine, Cosine, and Tangent: sin(theta) equals opposite over hypotenuse, cos(theta) equals adjacent over hypotenuse, tan(theta) equals opposite over adjacent.
+
+Limit Definition: limit as x approaches c of f(x) equals L, the value that f(x) approaches as x approaches c.
+
+Derivative Definition: f prime of x equals limit as h approaches 0 of [f(x plus h) minus f(x)] divided by h, the instantaneous rate of change of the function f at point x.
+
+Integral Definition: integral from a to b of f(x)dx, the area under the curve of f(x) from a to b.

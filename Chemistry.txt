@@ -1,0 +1,19 @@
+Periodic Table: Organizes elements by increasing atomic number and groups with similar properties.
+
+Avogadro's Number: 6.022 x 10^23, the number of atoms or molecules in one mole of a substance.
+
+Ideal Gas Law: PV = nRT, where P is pressure, V is volume, n is moles of gas, R is the gas constant, and T is temperature in Kelvin.
+
+Balancing Chemical Equations: Ensure the same number of each type of atom on both sides of the reaction equation.
+
+Acid-Base Reactions: Acid + Base = Salt + Water. Acids donate protons (H+), and bases accept protons.
+
+Redox Reactions: Oxidation-reduction reactions where one substance loses electrons (oxidation) and another gains electrons (reduction).
+
+Molarity (M): Concentration of a solution, defined as moles of solute per liter of solution.
+
+pH Scale: Measures acidity or basicity of a solution; pH < 7 is acidic, pH = 7 is neutral, pH > 7 is basic.
+
+Le Chatelier's Principle: If a dynamic equilibrium is disturbed, the system will adjust to minimize the disturbance.
+
+VSEPR Theory: Valence Shell Electron Pair Repulsion theory predicts the geometry of molecules based on electron pair repulsion.
